@@ -1,0 +1,15 @@
+app/
+config/
+bootstrap/
+database/
+public/
+resources/
+routes/
+storage/
+tests/
+.env.example
+artisan
+build.sh
+composer.json
+composer.lock
+credentials.EXAMPLE.yml

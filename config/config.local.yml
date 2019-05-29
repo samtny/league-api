@@ -1,0 +1,12 @@
+---
+
+league_api_url: localhost
+league_api_runmode: local
+league_api_docroot:
+
+league_api_log_directory:
+
+league_api_deploy_host: localhost
+league_api_deploy_user:
+
+league_api_db_name: league-api
