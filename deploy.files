@@ -1,6 +1,6 @@
 app/
-config/
 bootstrap/
+config/
 database/
 public/
 resources/
